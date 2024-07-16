@@ -1,5 +1,5 @@
 // 定义域名数组
-let domains = ['cdn.xn--b6gac.eu.org'];
+let domains = ['clean.evamo.ir'];
 // 定义IPv4和IPv6数组，用于存储解析后的IP地址
 let IPv4 = [];
 let IPv6 = [];
